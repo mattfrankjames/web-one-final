@@ -26,6 +26,9 @@ h6 {
 .active {
   opacity: 1;
 }
+body {
+  font-family: 'Kanit', sans-serif;
+}
 
 /* @media (min-width: 768px) {
   #nav-trigger {
